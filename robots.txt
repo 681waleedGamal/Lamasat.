@@ -1,5 +1,0 @@
-<script>
-  if (location.hostname === 'lamasat7.com') {
-    location.href = location.protocol + '//www.lamasat7.com' + location.pathname + location.search + location.hash;
-  }
-</script>
